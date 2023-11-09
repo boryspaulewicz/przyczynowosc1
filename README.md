@@ -1,1 +1,1 @@
-Ta strona dotyczy artykułu "Wprowadzenie do teorii wnioskowania przyczynowego dla psychologów: testowalne i nietestowalne założenia przyczynowe i statystyczne", który ma się ukazać w Przeglądzie Psychologicznym.
+Ta strona dotyczy artykułu ["Wprowadzenie do teorii wnioskowania przyczynowego dla psychologów: testowalne i nietestowalne założenia przyczynowe i statystyczne"](https://czasopisma.uwm.edu.pl/index.php/pp/article/view/9461/7101), który ukazał się w Przeglądzie Psychologicznym.
