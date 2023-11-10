@@ -8,4 +8,4 @@ Na s. 110 zdanie
 
 powinno brzmieć
 
-*"dla każdego rozkładu* $𝑋$ *i* $𝑌$ *istnieje nieskończenie wiele procesów o grafie przyczynowym nie zawierającym ścieżki kierunkowej z* $𝑋$ *do* $𝑌$ *generujących ten rozkład"*
+*"dla każdego rozkładu* $𝑋$ *i* $𝑌$ *istnieje nieskończenie wiele procesów generujących ten rozkład takich, że ich graf przyczynowy nie musi zawierać ścieżki kierunkowej z* $𝑋$ *do* $𝑌$*"*
