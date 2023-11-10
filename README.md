@@ -6,6 +6,8 @@ Na s. 110 zdanie
 
 *"dla każdego rozkładu* $𝑋$ *i* $𝑌$ *istnieje nieskończenie wiele procesów o grafie przyczynowym innym niż* $𝑋 \rightarrow 𝑌$ *generujących ten rozkład"*
 
-powinno brzmieć
+mogłoby też brzmieć
 
 *"dla każdego rozkładu* $𝑋$ *i* $𝑌$ *istnieje nieskończenie wiele procesów generujących ten rozkład takich, że ich graf przyczynowy nie musi zawierać ścieżki kierunkowej z* $𝑋$ *do* $𝑌$*"*
+
+Wyjaśnienie: "Graf przyczynowy inny niż $X \rightarrow Y$" to każdy graf przyczynowy, który nie ma tej strzałki, ale również każdy graf przyczynowy, który zawiera strzałkę $X \rightarrow Y$ i poza tym ma jakiekolwiek inne strzałki lub łuki. Oryginalna wersja nadal co prawda spełnia swoją rolę w tekście, ponieważ z każdego grafu innego niż $X \rightarrow Y$ wynika, że regresja $Y$ na $X$ nie szacuje realnego wpływu $X$ na $Y$, ale wersja alternatywna tego fragmentu wydaje mi się lepsza, bo chyba lepiej wyraża to, co zwykle chcemy przekazać stwierdzeniem w rodzaju "korelacja $X$ i $Y$ nie oznacza automatycznie wpływu $X$ na $Y$".
