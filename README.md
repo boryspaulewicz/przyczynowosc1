@@ -4,8 +4,8 @@ Ta strona dotyczy artykułu ["Wprowadzenie do teorii wnioskowania przyczynowego 
 
 Na s. 110 zdanie
 
-*"dla każdego rozkładu* $𝑋$ *i* $𝑌$ *istnieje nieskończenie wiele procesów o grafie przyczynowym innym niż $𝑋 \rightarrow 𝑌$ generujących ten rozkład"*
+*"dla każdego rozkładu* $𝑋$ *i* $𝑌$ *istnieje nieskończenie wiele procesów o grafie przyczynowym innym niż* $𝑋 \rightarrow 𝑌$ *generujących ten rozkład"*
 
 powinno brzmieć
 
-*"dla każdego rozkładu $𝑋$ i $𝑌$ istnieje nieskończenie wiele procesów o grafie przyczynowym nie zawierającym ścieżki kierunkowej z $𝑋$ do $𝑌$ generujących ten rozkład"*
+*"dla każdego rozkładu* $𝑋$ *i* $𝑌$ *istnieje nieskończenie wiele procesów o grafie przyczynowym nie zawierającym ścieżki kierunkowej z* $𝑋$ *do* $𝑌$ *generujących ten rozkład"*
